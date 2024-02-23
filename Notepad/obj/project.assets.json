@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Notepad\\Notepad\\Notepad.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\Notepad\\Notepad\\Notepad.csproj",
       "projectName": "Notepad",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Notepad\\Notepad\\Notepad.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Notepad\\Notepad\\Notepad.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Notepad\\Notepad\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\Notepad\\Notepad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
