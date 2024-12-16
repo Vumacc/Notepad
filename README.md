@@ -1,7 +1,7 @@
 # Notepad
 A simple notepad application implemented in C#. This was quite rushed so the UI may not look the nicest but I will be updating it in the near future.
 
-**NOTE :** All development for this project has been temporarily paused because yes
+**NOTE :** Do NOT install this :sob: it's so ass idfk what me 10 months ago was on abt
 
 # Introduction
 This project is a basic notepad application built using C#. It provides essential functionalities such as creating, editing, and saving text files. It's a lightweight tool suitable for quick note-taking or editing text documents.
